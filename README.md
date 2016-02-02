@@ -4,6 +4,6 @@
 
 Author Amy Kang
 
-<h2>Description></h2>
+<h2>Description</h2>
 
 Simple blog built with Rails.

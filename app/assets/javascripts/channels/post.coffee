@@ -1,4 +1,4 @@
-App.post = App.cable.subscriptions.create "PostChannel",
+App.post = App.cable.subscriptions.create "PostsChannel",
   connected: ->
     # Called when the subscription is ready for use on the server
 
